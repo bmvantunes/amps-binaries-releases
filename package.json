@@ -1,0 +1,25 @@
+{
+  "name": "amps-binaries-releases",
+  "version": "5.3.0-340",
+  "description": "AMPs Binaries (tar.gz) Releases",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmvantunes/amps-binaries-releases.git"
+  },
+  "keywords": [
+    "amps",
+    "binaries",
+    "linux",
+    "releases"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bmvantunes/amps-binaries-releases/issues"
+  },
+  "homepage": "https://github.com/bmvantunes/amps-binaries-releases#readme"
+}
